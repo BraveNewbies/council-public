@@ -12,7 +12,7 @@ Preamble
 Procedure
 --
 
-1. **You want to bring up a new idea before the group.** After recognition by the chair, present your motion. A second is required for the motion to go to the floor for debate or consideration.  -
+1. **You want to bring up a new idea before the group.** After recognition by the chair, present your motion. A second is required for the motion to go to the floor for debate or consideration.  +
 2. **You want a motion just introduced by another person to be killed.** Without recognition from the chair simply state *"I object to consideration."* This must be done before any debate. This motion requires no second, is not debatable, and requires a 2/3 supermajority vote.  +
 3. **You want to change some of the wording in a motion under debate.** After recognition by the chair, move to amend by:
  1. adding words
